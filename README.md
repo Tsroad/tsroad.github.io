@@ -13,5 +13,5 @@ A bird doesn't sing because it has an answer, it sings because it has a song. (M
 
 ## License
 
-This project is licensed under the terms of the [MIT License](https://github.com/Tsroad/Tsroad.io/blob/master/LICENSE) © C. (Tsroad) ztsiang
+This project is licensed under the terms of the [MIT License](LICENSE) © C. (Tsroad) ztsiang
 
