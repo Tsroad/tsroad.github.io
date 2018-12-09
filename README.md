@@ -1,6 +1,6 @@
 # [Tsroad](http://tsroad.github.io)
 
-![Tsroad](https://media.licdn.com/media/AAEAAQAAAAAAAAyLAAAAJDhhNzViNWY4LWZjYzMtNDFmNS1iYjY4LTQyN2FlYzliMzVmYg.jpg) |
+![Tsroad](https://tsroad.github.io/images/avatar.jpg)|
 | --- |
 [C. (Tsroad) ztsiang](https://github.com/Tsroad)<br>ALi Corporation, Inc. |
 
