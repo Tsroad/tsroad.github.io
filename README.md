@@ -1,6 +1,6 @@
 # [Tsroad](http://tsroad.github.io)
 
-|![{width:30}Tsroad](https://tsroad.github.io/images/avatar.jpg)|
+<img src="images/avatar.jpg" width="20%" height="20%">|
 | --- |
 [C. (Tsroad) ztsiang](https://github.com/Tsroad)<br>ALi Corporation, Inc. |
 
