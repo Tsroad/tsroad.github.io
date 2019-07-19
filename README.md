@@ -1,8 +1,9 @@
 # [Tsroad](http://tsroad.github.io)
 
-<img src="images/avatar.jpg" width="20%" height="20%">|
+<img src="images/avatar.jpg" align="middle" max-width="0" height="30%">|
 | --- |
-[C. (Tsroad) ztsiang](https://github.com/Tsroad)<br>ALi Corporation, Inc. |
+[C. (Tsroad) ztsiang](https://github.com/Tsroad)<br>ALi Corporation, Inc.|
+
 
 A bird doesn't sing because it has an answer, it sings because it has a song. (May a Angelou, American poet, b.1928)
 
